@@ -58,18 +58,26 @@ Check out the live preview of A Eye in action below! Click on the video thumbnai
 Check out some cool snapshots of A Eye doing its thing:
 
 1. **Home Screen**
-   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/1.jpg?raw=true" alt="Home Screen" width="500"/>
+   <div style="display: flex; justify-content: space-between; gap: 10px;">
+
+      <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/1.jpg?raw=true" alt="Home Screen" width="400"/>
+      <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/7.jpg?raw=true" alt="Home Screen" width="400"/>
+   </div>
 
 2. **Chatting with A Eye**
-      <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/2.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
-  <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/3.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
-  <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/5.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
-</div>
+   <div style="display: flex; justify-content: space-between; gap: 10px;">
+   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/2.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
+   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/3.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
+   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/5.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
+   </div>
 
 3. **Recent Chats**
-<img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/4.jpg?raw=true" alt="Starred Messages in A Eye" width="500"/>
+   <div style="display: flex; justify-content: space-between; gap: 10px;">
+
+      <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/4.jpg?raw=true" alt="Recent Chats" width="400"/>
+      <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/6.jpg?raw=true" alt="Recent Chats" width="400"/>
+   </div>
 
 ## 🤖 How A Eye Works
 
@@ -93,4 +101,4 @@ Got ideas? Found a bug? Or maybe you just want to help A Eye get even better? Op
 ---
 
 **Credits:**  
-The animations used in this app were created by an artist whose name will be credited here soon. I do not own the rights to these animations, and full credit goes to the original creator for their work. 🙏
+The animations used in this app were created by **@setyosn** on the Rive community files. I do not own the rights to these animations, and full credit goes to the original creator for their work. 🙏

@@ -3,7 +3,7 @@
 
 Welcome to **A Eye**, the chatbot app with personality! Made using the **Gemini API**, A Eye is your friendly conversation buddy that loves to chat, help, and make your day a little more fun. It comes with quirky animations and a smooth design that brings A Eye to life on your screen. 🎉
 
-![A Eye Chatbot](https://github.com/abdelrahmann190/comic_glance/raw/main/screenshots/1.jpeg) -->
+![A Eye Chatbot](https://raw.githubusercontent.com/abdelrahmann190/a_eye_bot/refs/heads/main/screenshots/chat%201.jfif) -->
 
 ## ✨ Features That Make A Eye Special
 

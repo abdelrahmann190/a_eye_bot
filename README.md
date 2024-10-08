@@ -1,9 +1,9 @@
 
-# 👁️ A Eye - Your Friendly Chatbot Companion 🤖🐱
+# 👁️ A Eye - Your Friendly Chatbot Companion 🤖
 
 Welcome to **A Eye**, the chatbot app with personality! Made using the **Gemini API**, A Eye is your friendly conversation buddy that loves to chat, help, and make your day a little more fun. It comes with quirky animations and a smooth design that brings A Eye to life on your screen. 🎉
 
-![A Eye Chatbot](https://raw.githubusercontent.com/abdelrahmann190/a_eye_bot/refs/heads/main/screenshots/chat%201.jfif) -->
+<img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/1.jpg?raw=true" alt="A Eye Chatbot Image" width="500"/> <!-- Replace this with the path to the image file you uploaded to the repository -->
 
 ## ✨ Features That Make A Eye Special
 
@@ -19,17 +19,20 @@ Welcome to **A Eye**, the chatbot app with personality! Made using the **Gemini 
 Ready to chat with A Eye? Here's how to get the app running on your device:
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/your-username/a-eye-chatbot-app.git
    cd a-eye-chatbot-app
    ```
 
 2. **Install Dependencies**:
+
    ```bash
    flutter pub get
    ```
 
 3. **Run the App**:
+
    ```bash
    flutter run
    ```
@@ -50,18 +53,23 @@ Check out the live preview of A Eye in action below! Click on the video thumbnai
 - **Rive Animations** 🎥: **The animations are the heartbeat of A Eye's character, making it dance around your screen with life-like movements!** The Rive integration ensures smooth transitions and interactive behavior.
 - **Animated Sizing Widgets** 🔄: Creates those sleek transitions and dynamic effects that make A Eye's interactions feel natural and fluid.
 
-## 📸 A Eye in Action!
+## 📸 A Eye in Action
 
 Check out some cool snapshots of A Eye doing its thing:
 
-1. **Home Screen with A Eye**  
-   ![A Eye Chatbot on Home Screen](./path-to-first-image.jpg) <!-- Replace with the actual image path -->
+1. **Home Screen**
+   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/1.jpg?raw=true" alt="Home Screen" width="500"/>
 
-2. **Chatting with A Eye**  
-   ![A Eye Chat with Image Attachment](./path-to-second-image.jpg) <!-- Replace with the actual image path -->
+2. **Chatting with A Eye**
+      <div style="display: flex; justify-content: space-between;">
 
-3. **Starred Messages**  
-   ![Starred Messages in A Eye](./path-to-third-image.jpg) <!-- Replace with the actual image path -->
+  <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/2.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
+  <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/3.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
+  <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/5.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
+</div>
+
+3. **Recent Chats**
+<img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/4.jpg?raw=true" alt="Starred Messages in A Eye" width="500"/>
 
 ## 🤖 How A Eye Works
 
@@ -73,11 +81,12 @@ Check out some cool snapshots of A Eye doing its thing:
 ## 🔮 What's Next for A Eye?
 
 Here’s what we’re cooking up for the future:
+
 - 🎨 **More Custom Animations**: Even more fun moves for A Eye to show off.
 - 🌍 **Multi-language Support**: So A Eye can chat with even more people worldwide.
 - 🤹 **Theme Customization**: Let A Eye match your style with cool themes and colors.
 
-## 🤝 Contribute and Join the Fun!
+## 🤝 Contribute and Join the Fun
 
 Got ideas? Found a bug? Or maybe you just want to help A Eye get even better? Open an issue, submit a pull request, or simply drop a comment. Let’s make A Eye even cooler, together! ✌️
 

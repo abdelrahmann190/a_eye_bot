@@ -67,16 +67,16 @@ Check out some cool snapshots of A Eye doing its thing:
 2. **Chatting with A Eye**
 
    <div style="display: flex; justify-content: space-between; gap: 10px;">
-   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/2.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
-   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/3.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
-   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/5.jpg?raw=true" alt="Chatting with A Eye" width="400"/>
+   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/2.jpg?raw=true" alt="Chatting with A Eye" width="300"/>
+   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/3.jpg?raw=true" alt="Chatting with A Eye" width="300"/>
+   <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/5.jpg?raw=true" alt="Chatting with A Eye" width="300"/>
    </div>
 
 3. **Recent Chats**
    <div style="display: flex; justify-content: space-between; gap: 10px;">
 
-      <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/4.jpg?raw=true" alt="Recent Chats" width="400"/>
-      <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/6.jpg?raw=true" alt="Recent Chats" width="400"/>
+      <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/4.jpg?raw=true" alt="Recent Chats" width="300"/>
+      <img src="https://github.com/abdelrahmann190/a_eye_bot/blob/main/screenshots/6.jpg?raw=true" alt="Recent Chats" width="300"/>
    </div>
 
 ## 🤖 How A Eye Works

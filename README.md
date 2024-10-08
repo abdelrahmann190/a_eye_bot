@@ -43,7 +43,7 @@ And voilà! You're now ready to start chatting with A Eye! 🎉
 
 Check out the live preview of A Eye in action below! Click on the video thumbnail to watch it on YouTube. 📹
 
-[![A Eye Chatbot Preview](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[![A Eye Chatbot Preview](https://img.youtube.com/vi/Hv0hTwPO4Mc/0.jpg)](https://www.youtube.com/watch?v=Hv0hTwPO4Mc)  
 <!-- Replace "YOUR_VIDEO_ID" with the actual ID of your YouTube video to display the thumbnail -->
 
 ## 🛠️ Technologies Behind the Magic
